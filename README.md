@@ -1,4 +1,4 @@
-# Perpetua
+# Veralux
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#getting-started)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.x-blue.svg)](https://www.typescriptlang.org/)
@@ -7,7 +7,7 @@
 
 **Quality over quantity.**
 
-Perpetua is a mobile app that builds a **capsule wardrobe** for you: a small, carefully chosen set of pieces that fit your body, stay inside your budget, match your style preferences, and work well together. You can swap or approve pieces, buy the whole capsule or just some of it, and follow every delivery in one place.
+Veralux is a mobile app that builds a **capsule wardrobe** for you: a small, carefully chosen set of pieces that fit your body, stay inside your budget, match your style preferences, and work well together. You can swap or approve pieces, buy the whole capsule or just some of it, and follow every delivery in one place.
 ---
 
 ## What the app does
@@ -47,14 +47,12 @@ Then it chooses one piece per slot so that colours and patterns go together and 
 
 ## Your data and privacy
 
-Your measurements, preferences and address are stored **on your device only**. They are not used for tracking and are not sent to analytics. You can delete everything from **Profile > Settings > Delete my data**. Details: [`docs/privacy.md`](docs/privacy.md).
-
----
+Your measurements, preferences and address are stored **on your device only**. They are not used for tracking and are not sent to analytics. You can delete everything from **Profile > Settings > Delete my data**.
 
 ## Docs
-- [Privacy Policy](docs/veralux_privacy_policy.md)
-- [EULA](docs/veralux_eula.md)
-- [Terms of Use](docs/veralux_terms_of_use.md)
+- [Privacy Policy](veralux_privacy_policy.md)
+- [EULA](veralux_eula.md)
+- [Terms of Use](veralux_terms_of_use.md)
 
 ## License
 
